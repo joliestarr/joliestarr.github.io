@@ -1,0 +1,83 @@
+* {
+  background: transparent; !important
+  color: black;
+  font-size: 9pt;
+  font-family: serif;
+}
+
+.position {
+  font-style: italic;
+  margin-right: 0.5in;
+}
+
+.box-one {
+  position: relative;
+  float: left;
+}
+
+
+#dates {
+  font-style: italic;
+  margin-left: 0;
+}
+
+#headers {
+  margin-bottom: 0.25in;
+}
+
+
+@print {
+  margin: 0.5in;
+}
+
+
+h1 {
+  font-size: 40pt;
+  margin: 0;
+  text-align: center;
+}
+
+address {
+  text-align: center;
+  font-size: 10pt;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 0.05in;
+  font-size: 16pt;
+  text-decoration: underline;
+}
+
+h4 {
+  font-style: italic;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0in;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+nav {
+  display: none;
+}
+
+article {
+  margin-bottom: 0.02in;
+}
+
+address {
+  margin-bottom: 0.5in;
+}
+
+a[href^="http"] {
+  display: inline;
+}

@@ -1,0 +1,107 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 50px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  margin: 0;
+  font-size: 70px;
+}
+
+address {
+  margin: 30px;
+  font-size: 13px;
+}
+
+header {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 320px;
+}
+
+nav {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 240px;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 38px;
+  margin: 20px;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 20px;
+}
+
+h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 20px;
+}
+
+h5 {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 20px;
+}
+
+h6, p, ul, li {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 20px;
+}
+
+#header {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#dates {
+  float: right;
+}
+
+.box {
+  border-bottom: 1px solid;
+  position: relative;
+  border-color: #ccc;
+  margin: 10px;
+  border-width: 5px;
+}
+
+.address {
+  float: none;
+  text-align: left;
+}
+
+.body {
+  padding: 10px;
+  border: 10px solid #ccc;
+  margin: 30px;
+  max-width: 960px;
+}
+
+.navigation nav ul li {
+  display: inline-block;
+  margin: 5px;
+}
+
+a {
+  color: rgb(132,168,215);
+}
+
+a:hover,
+a:focus {
+  color: rgb(25,46,73);
+}
+
+a:active {
+  color: black;
+}
+
+.years {
+  margin: 20px;
+  float: none;
+}
+
+.position {
+  margin-left: 60px;
+  font-style: italic;
+}
